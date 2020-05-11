@@ -11,3 +11,12 @@
 .fighter-preview___left {
   align-items: flex-start;
 }
+
+.fighter-preview__info-block {
+  min-height: 50px;
+  padding: 10px;
+  font-weight: bold;
+  text-transform: capitalize;
+  background-color: #FFDFA7;
+  border: 5px solid #ca9650;
+}
